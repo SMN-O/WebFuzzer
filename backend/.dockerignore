@@ -1,0 +1,13 @@
+# scripts
+init.sh
+
+# pycache
+__pycache__
+typings/__pycache__
+lib/__pycache__
+
+# dev env
+venv__backend
+
+# outputs
+outputs

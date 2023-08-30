@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\seclists\\Discovery",
+    "\\backend\\seclists\\Discovery\\Web-Content",
+    "\\frontend"
+  ],
+  "SelectedNode": "\\backend\\init.sh",
+  "PreviewInSolutionExplorer": false
+}
