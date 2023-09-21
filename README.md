@@ -1,4 +1,4 @@
-# ffuf-web
+# Web Based Fuzzer
 
 Run tests from the chosen links from http://www.vulnweb.com
 Deploy docker and run commands in VS terminal.
